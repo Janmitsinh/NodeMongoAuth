@@ -10,7 +10,7 @@ For more detail, please visit:
 
 You may need to implement Refresh Token:
 
-![jwt-refresh-token-node-js-example-flow](jwt-refresh-token-node-js-example-flow.png)
+![jwt-refresh-token-node-js-example-flow](jwt-refresh-token.png)
 
 > [Node.js JWT Refresh Token with MongoDB example](https://www.bezkoder.com/jwt-refresh-token-node-js-mongodb/)
 

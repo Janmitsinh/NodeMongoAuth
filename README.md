@@ -3,7 +3,7 @@
 ## User Registration, User Login and Authorization process.
 The diagram shows flow of how i implement User Registration, User Login and Authorization process.
 
-![jwt-token-authentication-node-js-example-flow](jwt-token-authentication-node-js-example-flow.png)
+![jwt-token-authentication-node-js-example-flow](jwt-token-authentication.png)
 
 For more detail, please visit:
 > [Node.js + MongoDB: User Authentication & Authorization with JWT](https://www.bezkoder.com/node-js-mongodb-auth-jwt/)
